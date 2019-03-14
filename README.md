@@ -1,3 +1,7 @@
+# Angular New Project Structure bootstraping
+
+This project is a new angular project with best angular folder structure for bootstraping fast projects.
+
 # NgStartupStructure
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
